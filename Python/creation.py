@@ -1,5 +1,3 @@
-#!bin/bash/Python3
-
 #Python program for creation of a string
 #creating s string with single qoutes
 string1 = 'Welcome to python programming'
