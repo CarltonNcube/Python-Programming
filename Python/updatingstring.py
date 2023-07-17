@@ -6,7 +6,7 @@ print("Inital string: ")
 print(string1)
 
 #Updating a string
-string1 "Welcome to Python programming"
+string1 = "Welcome to Python programming"
 print("\nUpdated string: ")
 print(string1)
 
